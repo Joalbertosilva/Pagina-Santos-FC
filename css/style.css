@@ -305,7 +305,7 @@ input{
     font-family: 'Reavy italic', sans-serif;
 }
 
-@media only screen and (max-width: 465px) {
+@media only screen and (max-width: 1830px) {
     .secao1{
         background-color: #ffffff;
         position: fixed;
